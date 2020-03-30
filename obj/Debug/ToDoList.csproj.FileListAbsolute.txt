@@ -1,0 +1,10 @@
+D:\СКБстажировка\6\bin\Debug\ToDoList.dll
+D:\СКБстажировка\6\bin\Debug\ToDoList.pdb
+D:\СКБстажировка\6\bin\Debug\FluentAssertions.dll
+D:\СКБстажировка\6\bin\Debug\nunit.framework.dll
+D:\СКБстажировка\6\bin\Debug\FluentAssertions.xml
+D:\СКБстажировка\6\bin\Debug\nunit.framework.xml
+D:\СКБстажировка\6\obj\Debug\ToDoList.csproj.CopyComplete
+D:\СКБстажировка\6\obj\Debug\ToDoList.dll
+D:\СКБстажировка\6\obj\Debug\ToDoList.pdb
+D:\СКБстажировка\6\obj\Debug\ToDoList.csprojAssemblyReference.cache
